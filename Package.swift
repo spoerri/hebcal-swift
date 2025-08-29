@@ -7,7 +7,7 @@ let package = Package(
     name: "Hebcal",
     defaultLocalization: "en",
     platforms: [
-        .macOS(.v10_14), .iOS(.v11), .watchOS(.v5)
+        .macOS(.v10_14), .iOS(.v16), .watchOS(.v5)
     ],
     products: [
         // Products define the executables and libraries a package produces, and make them visible to other packages.
